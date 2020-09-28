@@ -1,2 +1,3 @@
 //some more code is added:
-print(this is a conflict)
+print("some more code is added")
+
